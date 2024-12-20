@@ -8,3 +8,7 @@ This is a platform allowing users to create and manage their short urls. Besides
 
 ## Deploy
 I will upload a quick start doc later.
+
+
+https://github.com/user-attachments/assets/e223b7f6-51f8-43d7-9a36-d6626fd9ef2d
+
